@@ -52,3 +52,40 @@ JSON Data: The JSON object searchQueries contains search queries along with thei
 ```
 
 https://github.com/copilot
+
+
+
+Paste the  ` index.html ` source code  inside the copilot chat and continue paste the prompts to correcting search urls
+
+-------
+
+```
+
+JSON Data: The JSON object searchQueries contains search queries along with their results. 10 Weather urls
+
+
+```
+
+
+```
+
+JSON Data: The JSON object searchQueries contains search queries along with their results. 5 cake reciept urls
+
+
+```
+
+```
+
+JSON Data: The JSON object searchQueries contains search queries along with their results. 10 Car Repair urls
+
+
+```
+
+```
+
+JSON Data: The JSON object searchQueries contains search queries along with their results. 10 mobile app urls
+
+
+```
+
+
