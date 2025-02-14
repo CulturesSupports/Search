@@ -6,10 +6,19 @@ Query App For Searching Json Web Links / Kind of Mini Search Engine inside Boots
 
 ------------------
 
+
+# How its Made 
+
+
 Entire app is inside `index.html` file 
 
 
-- Uses Fetching of url trough Search Engines
-- adding urls by generate json
+
+- includes Json inside < javascript > < / javascript> 
+
+- included id for Search Query
+- Include Css for Styling Components 
 
 ------
+
+Search is Working for Typing ``` Search Bar ```
