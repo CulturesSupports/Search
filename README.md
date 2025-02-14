@@ -88,4 +88,4 @@ JSON Data: The JSON object searchQueries contains search queries along with thei
 
 ```
 
-
+- This is to Getting Json Data inside Bootstrap
