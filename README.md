@@ -24,3 +24,9 @@ Entire app is inside `index.html` file
 Search is Working for Typing ``` Words into Search Bar ```
 
 https://culturessupports.github.io/Search/
+
+
+
+----------------------
+
+Json is data fitting into  < javascript > < / javascript> and both enable write json funtion to preview inside html app id tags 
