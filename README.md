@@ -807,3 +807,22 @@ JSON Data: The JSON object searchQueries contains search queries along with thei
 
 ---------------
 
+
+# Information is Served for Internal Development inside this Repository 
+
+
+- Its Only WE As the Repository Holder Who Develops Upon The Source Code
+
+---------------
+
+---------------
+
+---------------
+
+
+---------------
+
+---------------
+
+---------------
+
