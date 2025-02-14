@@ -89,3 +89,9 @@ JSON Data: The JSON object searchQueries contains search queries along with thei
 ```
 
 - This is to Getting Json Data inside  `index.html`
+
+
+---------------
+
+
+### The Copilot can be use to generate the json data needed inside ` index.html ` inside this repository
