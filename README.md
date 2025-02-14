@@ -789,7 +789,10 @@ JSON Data: The JSON object searchQueries contains search queries along with thei
 ### this is the query urls in json you need to develop more of by 10 urls by category 
 
 
+### This enables the search query app to generate more and more search , the more links you generate and put inside
 
+
+### it can be used to serve over 10 000 search 
 ---------------
 
 ---------------
