@@ -30,3 +30,23 @@ https://culturessupports.github.io/Search/
 ----------------------
 
 Json is data fitting into  < javascript > < / javascript> and both enable write json funtion to preview inside html app id tags 
+
+
+-------------
+
+
+
+For making a App info work inside search  You Need to Feed the Json Links and Json Parameters
+
+
+--------------
+
+# Develop inside copilot chat 
+
+
+```
+
+JSON Data: The JSON object searchQueries contains search queries along with their results. 40 Home Cooking urls
+
+
+```
