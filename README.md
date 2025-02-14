@@ -756,3 +756,51 @@ JSON Data: The JSON object searchQueries contains search queries along with thei
 ```
 
 ### The Copilot can be use to generate the json data needed inside ` index.html ` inside this repository
+
+
+
+
+
+```
+
+
+    {
+      "query": "apple nutrition facts",
+      "timestamp": "2025-02-14T07:00:00Z",
+      "results": [
+        {
+          "title": "Apple Nutrition Facts",
+          "snippet": "An apple is a sweet, edible fruit produced by an apple tree.",
+          "url": "https://www.healthline.com/nutrition/apple-nutrition"
+        },
+        {
+          "title": "Calories in Apple",
+          "snippet": "Find detailed information on apple nutrition, including calories, vitamins, and more.",
+          "url": "https://www.calorieking.com/foods/calories-in-apple/YtMWpDWYQjBzFhD-Av2nFA"
+        }
+      ]
+    },
+
+
+
+```
+
+
+### this is the query urls in json you need to develop more of by 10 urls by category 
+
+
+
+---------------
+
+---------------
+
+---------------
+
+---------------
+
+---------------
+
+---------------
+
+---------------
+
